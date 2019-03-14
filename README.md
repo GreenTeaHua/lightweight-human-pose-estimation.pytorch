@@ -96,8 +96,9 @@ To run the demo download Intel&reg; OpenVINO&trade; Toolkit [https://software.in
 
 We provide python demo just for the quick results preview. Please, consider c++ demo for the best performance. To run the python demo from a webcam:
 * `python demo.py --checkpoint-path <path_to>/checkpoint_iter_370000.pth.tar --video 0`
-dev  dell 1050ti / dell cpu  / tx2 gpu   / tx2 cpu
-fps    15             1        3-4        
+dev  dell 1050ti / dell cpu  / tx2 gpu   / tx2 cpu  
+fps    15             1        3-4          ?
+
 ## Citation:
 
 If this helps your research, please cite the paper:
